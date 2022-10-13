@@ -1,16 +1,34 @@
-### Hi there 👋
+👨‍💻 Madi Zhaksykeldi
 
-<!--
-**MadiZhaksykeldi/MadiZhaksykeldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**` Backend Developer `**
 
-Here are some ideas to get you started:
+<p><em>Graduated <a href="https://iitu.edu.kz/en/">IITU
+</a><img src="https://s4.gifyu.com/images/ezgif.com-gif-maker7b2464a6897997c3.gif" width="30"> 
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madizhaksykeldi/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/MadiZhaksykeldi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/madizhaksykeldi/)
+
+## <img src="https://media.tenor.com/JLQ2QSxkNtAAAAAj/%D8%AD%D8%AA%D9%88%D9%88%D9%85%D9%8A%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A.gif" width="50" height="50"> About me
+
+```javascript
+const madi = {
+    code: ["Java", "Go", "JavaScript"],
+    askMeAbout: ["backend", "tech", "sports"],
+    technologies: {
+        backEnd: {
+            java: ["Spring Framework", "JavaFX"],
+            js: ["NodeJS", "NestJS",],
+        },
+        mobileApp: {
+            android: ["Kotlin"]
+        },
+        tools: ["Docker🐳", "Git", "Linux"],
+        databases: ["PostgreSql", "MySql", "Firebase"],
+    },
+    soft skills: ["Self Motivation", "Critical Thinking", "Sharp Memory"],
+    currentFocus: "Developing Java applications for the enterprise"
+};
+```
+
