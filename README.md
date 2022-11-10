@@ -7,6 +7,7 @@
 </em></p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madizhaksykeldi/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/MadiZhaksykeldi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/madizhaksykeldi/)
 
 ## <img src="https://media.tenor.com/JLQ2QSxkNtAAAAAj/%D8%AD%D8%AA%D9%88%D9%88%D9%85%D9%8A%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A.gif" width="50" height="50"> About me
