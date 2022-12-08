@@ -19,7 +19,6 @@ const madi = {
     technologies: {
         backEnd: {
             java: ["Spring Framework", "JavaFX"],
-            js: ["NodeJS", "NestJS",],
         },
         mobileApp: {
             android: ["Kotlin"]
