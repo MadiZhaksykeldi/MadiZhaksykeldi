@@ -1,4 +1,4 @@
-👨‍💻 Madi Zhaksykeldi
+# 👨‍💻 Madi Zhaksykeldi
 
 **` Backend Developer `**
 
@@ -10,54 +10,23 @@
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/MadiZhaksykeldi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/madizhaksykeldi/)
 
-## <img src="https://media.tenor.com/JLQ2QSxkNtAAAAAj/%D8%AD%D8%AA%D9%88%D9%88%D9%85%D9%8A%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D9%8A.gif" width="50" height="50"> About me
+---
 
-```javascript
-const madi = {
-    code: ["Java", "Go", "JavaScript"],
-    askMeAbout: ["backend", "tech", "sports"],
-    technologies: {
-        backEnd: {
-            java: ["Spring Framework", "JavaFX"],
-        },
-        mobileApp: {
-            android: ["Kotlin"]
-        },
-        tools: ["Docker🐳", "Git", "Linux"],
-        databases: ["PostgreSql", "MySql", "Firebase"],
-    },
-    soft skills: ["Self Motivation", "Critical Thinking", "Sharp Memory"],
-    currentFocus: "Developing Java applications for the enterprise"
-};
-```
+### 🧰 Languages and Tools
 
-## 🗂️ My Projects (more coming soon)
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
-<a href="https://github.com/MadiZhaksykeldi/StudentsRestApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadiZhaksykeldi&repo=StudentsRestApi&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="StudentsRestApi" />
-</a>
+#
 
+### 📊 Stats
 
-<a href="https://github.com/MadiZhaksykeldi/PongGame">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadiZhaksykeldi&repo=PongGame&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="PongGame" />
-</a>
+![Madi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadiZhaksykeldi&show_icons=true&theme=gruvbox)
 
-<a href="https://github.com/MadiZhaksykeldi/HotelManagementSystem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadiZhaksykeldi&repo=HotelManagementSystem&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="HotelManagementSystem" />
-</a>
-
-<a href="https://github.com/MadiZhaksykeldi/AlarmApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadiZhaksykeldi&repo=AlarmApp&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="AlarmApp" />
-</a>
-
-<a href="https://github.com/MadiZhaksykeldi/Calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadiZhaksykeldi&repo=Calculator&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Calculator" />
-</a>
-
-<a href="https://github.com/MadiZhaksykeldi/GreetingsApi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadiZhaksykeldi&repo=GreetingsApi&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="GreetingsApi" />
-</a>
-
-<a href="https://github.com/MadiZhaksykeldi/JUnit5-testing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadiZhaksykeldi&repo=JUnit5-testing&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="JUnit5-testing" />
-</a>
